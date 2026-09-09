@@ -1,0 +1,58 @@
+[
+  {
+    "id": "garden",
+    "name": "Garden Room",
+    "type": "King bed · Garden view",
+    "price": 2250,
+    "capacity": 2,
+    "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1000&q=85",
+    "amenities": [
+      "Breakfast",
+      "Fast Wi-Fi",
+      "Private bath"
+    ],
+    "isActive": true
+  },
+  {
+    "id": "lake",
+    "name": "Lake View Suite",
+    "type": "King bed · Balcony · Lake view",
+    "price": 3400,
+    "capacity": 2,
+    "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1000&q=85",
+    "amenities": [
+      "Breakfast",
+      "Lake view",
+      "Air conditioning"
+    ],
+    "isActive": true
+  },
+  {
+    "id": "family",
+    "name": "Family Residence",
+    "type": "Two bedrooms · Living room",
+    "price": 4800,
+    "capacity": 4,
+    "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1000&q=85",
+    "amenities": [
+      "Breakfast",
+      "Kitchenette",
+      "Extra space"
+    ],
+    "isActive": true
+  },
+  {
+    "id": "room-1788982969916",
+    "name": "Presdential",
+    "type": "King bed · Garden view",
+    "price": 2500,
+    "capacity": 2,
+    "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1000&q=85",
+    "amenities": [
+      "Breakfast",
+      "Fast Wi-Fi",
+      "Private bath"
+    ],
+    "isActive": true
+  }
+]
