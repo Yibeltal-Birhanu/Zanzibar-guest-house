@@ -1,5 +1,6 @@
 {
-  "version": 2,
+  "buildCommand": "npx vite build",
+  "installCommand": "npm install --foreground-scripts",
   "rewrites": [
     {
       "source": "/api/:path*",
